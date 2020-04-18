@@ -27,11 +27,11 @@
 
 [//]: # (Crosshair Listing)
 
-```html
 This is a collection of crosshair settings for the game VALORANT that I have created. Since there is no way to save a crosshair I decided to back up the ones I was creating and messing around with, enjoy.
 
 Click a preview to be sent to the proper directory. Click the image again once inside the directory to view a higher res version.
-```
+
+<br><br>
 
 #### Crosshair 1
 [![alt text][xhair1]](Crosshair01) <br> <br>
