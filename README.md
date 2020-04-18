@@ -28,7 +28,7 @@
 [//]: # (Crosshair Listing)
 
 #### Crosshair 1
-[![alt text][xhair1]](./crosshair01) <br> <br>
+[![alt text][xhair1]](https://github.com/your-rival/valorant-crosshairs/tree/master/Crosshair01) <br> <br>
 ---
 #### Crosshair 2
 [![alt text][xhair2]](crosshair&#32;02) <br> <br>
