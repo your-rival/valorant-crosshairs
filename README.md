@@ -31,7 +31,7 @@ This is a collection of crosshair settings for the game VALORANT that I have cre
 
 Click a preview to be sent to the proper directory. Click the image again once inside the directory to view a higher res version.
 
-<br><br>
+<br>
 
 #### Crosshair 1
 [![alt text][xhair1]](Crosshair01) <br> <br>
