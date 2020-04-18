@@ -28,7 +28,7 @@
 [//]: # (Crosshair Listing)
 
 #### Crosshair 1
-[![alt text][xhair1]](crosshair01.png) <br> <br>
+[![alt text][xhair1]](/crosshair01.png) <br> <br>
 ---
 #### Crosshair 2
 [![alt text][xhair2]](crosshair&#32;02) <br> <br>
