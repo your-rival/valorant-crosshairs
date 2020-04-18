@@ -5,25 +5,25 @@
 
 [//]: # (Crosshair Index)
 [xhair1]: Crosshair01/preview.png "Crosshair 1 Preview"
-[xhair2]: /crosshair&#32;02/preview.png "Crosshair 2 Preview"
-[xhair3]: /crosshair&#32;03/preview.png "Crosshair 3 Preview"
-[xhair4]: /crosshair&#32;04/preview.png "Crosshair 4 Preview"
-[xhair5]: /crosshair&#32;05/preview.png "Crosshair 5 Preview"
-[xhair6]: /crosshair&#32;06/preview.png "Crosshair 6 Preview"
-[xhair7]: /crosshair&#32;07/preview.png "Crosshair 7 Preview"
-[xhair8]: /crosshair&#32;08/preview.png "Crosshair 8 Preview"
-[xhair9]: /crosshair&#32;09/preview.png "Crosshair 9 Preview"
-[xhair10]: /crosshair&#32;10/preview.png "Crosshair 10 Preview"
-[xhair11]: /crosshair&#32;11/preview.png "Crosshair 11 Preview"
-[xhair12]: /crosshair&#32;12/preview.png "Crosshair 12 Preview"
-[xhair13]: /crosshair&#32;13/preview.png "Crosshair 13 Preview"
-[xhair14]: /crosshair&#32;14/preview.png "Crosshair 14 Preview"
-[xhair15]: /crosshair&#32;15/preview.png "Crosshair 15 Preview"
-[xhair16]: /crosshair&#32;16/preview.png "Crosshair 16 Preview"
-[xhair17]: /crosshair&#32;17/preview.png "Crosshair 17 Preview"
-[xhair18]: /crosshair&#32;18/preview.png "Crosshair 18 Preview"
-[xhair19]: /crosshair&#32;19/preview.png "Crosshair 19 Preview"
-[xhair20]: /crosshair&#32;20/preview.png "Crosshair 20 Preview"
+[xhair2]: Crosshair02/preview.png "Crosshair 2 Preview"
+[xhair3]: Crosshair03/preview.png "Crosshair 3 Preview"
+[xhair4]: Crosshair04/preview.png "Crosshair 4 Preview"
+[xhair5]: Crosshair05/preview.png "Crosshair 5 Preview"
+[xhair6]: Crosshair06/preview.png "Crosshair 6 Preview"
+[xhair7]: Crosshair07/preview.png "Crosshair 7 Preview"
+[xhair8]: Crosshair08/preview.png "Crosshair 8 Preview"
+[xhair9]: Crosshair09/preview.png "Crosshair 9 Preview"
+[xhair10]: Crosshair10/preview.png "Crosshair 10 Preview"
+[xhair11]: Crosshair11/preview.png "Crosshair 11 Preview"
+[xhair12]: Crosshair12/preview.png "Crosshair 12 Preview"
+[xhair13]: Crosshair13/preview.png "Crosshair 13 Preview"
+[xhair14]: Crosshair14/preview.png "Crosshair 14 Preview"
+[xhair15]: Crosshair15/preview.png "Crosshair 15 Preview"
+[xhair16]: Crosshair16/preview.png "Crosshair 16 Preview"
+[xhair17]: Crosshair17/preview.png "Crosshair 17 Preview"
+[xhair18]: Crosshair18/preview.png "Crosshair 18 Preview"
+[xhair19]: Crosshair19/preview.png "Crosshair 19 Preview"
+[xhair20]: Crosshair20/preview.png "Crosshair 20 Preview"
 
 [//]: # (Crosshair Listing)
 
@@ -31,7 +31,7 @@
 [![alt text][xhair1]](https://github.com/your-rival/valorant-crosshairs/tree/master/Crosshair01) <br> <br>
 ---
 #### Crosshair 2
-[![alt text][xhair2]](crosshair&#32;02) <br> <br>
+[![alt text][xhair2]](Crosshair02) <br> <br>
 ---
 #### Crosshair 3
 [![alt text][xhair3]](crosshair&#32;03) <br> <br>
