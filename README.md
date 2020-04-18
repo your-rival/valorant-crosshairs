@@ -4,7 +4,7 @@
 [//]: # ()
 
 [//]: # (Crosshair Index)
-[xhair1]: crosshair%2001/preview.png "Crosshair 1 Preview"
+[xhair1]: crosshair01/preview.png "Crosshair 1 Preview"
 [xhair2]: crosshair&#32;02/preview.png "Crosshair 2 Preview"
 [xhair3]: crosshair&#32;03/preview.png "Crosshair 3 Preview"
 [xhair4]: crosshair&#32;04/preview.png "Crosshair 4 Preview"
@@ -27,7 +27,7 @@
 
 [//]: # (Crosshair Listing)
 #### Crosshair 1
-[![alt text][xhair1]](../../crosshair&#32;01) <br> <br>
+[![alt text][xhair1]](crosshair01) <br> <br>
 ---
 #### Crosshair 2
 [![alt text][xhair2]](crosshair&#32;02) <br> <br>
